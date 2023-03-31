@@ -1,0 +1,13 @@
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\bin\Debug\VBChapter6.exe.config
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\bin\Debug\VBChapter6.exe
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\bin\Debug\VBChapter6.pdb
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\bin\Debug\VBChapter6.xml
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.vbproj.AssemblyReference.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.Form1.resources
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.Resources.resources
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.vbproj.GenerateResource.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.vbproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.exe
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.xml
+C:\Users\samue\Desktop\VisualBasic2023\VBChapter6\VBChapter6\obj\Debug\VBChapter6.pdb
